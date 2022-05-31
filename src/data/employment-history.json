@@ -1,0 +1,316 @@
+{
+  "employmentEntry": [
+    {
+      "roleEntries": [
+        {
+          "role": "Tech Lead Development Engineer",
+          "date": {
+            "from": "1 Sep 2021",
+            "to": "present"
+          }
+        },
+        {
+          "role": "Senior Software Development Engineer",
+          "date": {
+            "from": "29 Apr 2019",
+            "to": "31 Aug 2021"
+          }
+        }
+      ],
+      "companyEntry": {
+        "name": "Mastercard",
+        "address": "2200 Mastercard Blvd, O'Fallon, Missouri 63368, USA",
+        "supervisor": "Walz, Ellen",
+        "role": "manager"
+      },
+      "descriptions": {
+        "lead": "Take ownership of various Mastercard Payment Gateway Services assets, APIs, and Javascript SDKs.",
+        "details": [
+          "Heavily involved in various projects and led in the development, planning, and maintenance of the Javascript SDK code bases.",
+          "Architected the entire frontend framework for our project. Reworked most of the builds. Converted grunt builds into webpack configs. Modernised and future proofed our frontend build flow",
+          "Design and build reusable components that becomes the building blocks for every payment methods. This base codes have to be robust enough to stand the test of time and flexible enough to be upgraded in the future",
+          "Maintain proper version control following Semantic Versioning (Semver) best practices and ensuring that latest, plus one version before is always maintained and supported.",
+          "Code quality is enforced by applying Standard JS/ES linting and formatting, along with constant proper code reviews and pair programming ensuring top quality code to be shipped consistently.",
+          "Use Typescript to maintain and organize clear and concise methods for merchants to implement it into their online shopping platform.",
+          "Develop and maintain codebases to integrate with the backend solution architecture using a series of Java flow services to retrieve various information to the client.",
+          "Build and maintain RESTful APIs, controllers, and services using Java Spring Boot to be consumed by the front-end Typescript and Javascript applications."
+        ]
+      },
+      "projects": [
+        "Standardized and develop a base API code for all other JS SDKs",
+        "Modernizing and future proofing of legacy platforms",
+        "Rewrite legacy platform with modern Typescript and Angular framework"
+      ],
+      "techStacks": [
+        "Angular 11", "Angular 12", "Angular 13",
+        "Typescript 3+", "Typescript 4+",
+        "Java", "Java Spring Boot",
+        "SDLC", "SecureSDLC", "Jenkins", "CI/CD",
+        "RESTful API", "MicroServices"
+      ]
+    },
+    {
+      "roleEntries": [
+        {
+          "role": "Senior Software Engineer — Fullstack",
+          "date": {
+            "from": "15 Oct 2018",
+            "to": "14 Apr 2019"
+          }
+        }
+      ],
+      "companyEntry": {
+        "name": "Crédit Agricole / Azqore",
+        "address": "80 Pasir Panjang Road, Singapore 117440",
+        "supervisor": "Julien Mulaton",
+        "role": "manager"
+      },
+      "descriptions": {
+        "lead": "Leading a team of Engineers to develop and maintain the software of Azqore that is used for bankers and corporate clients.",
+        "details": [
+          "Leading, building, and maintaining different projects and codebases that will be used by other developers.",
+          "Organize, maintain, and develop clean and proper version control that is being used by different groups of engineers working simultaneously in different timezones.",
+          "Ensure code quality using JSLint, peer to peer code reviews and pair programming, and also ensure best practices are followed.",
+          "Use Angular5 to organize, display, sort big data from the database.",
+          "Develop and maintain codebases to integrate with the backend solution architecture using a series of Java flow services to retrieve various information to the client.",
+          "Develop RESTful APIs, controllers, and services to be integrated into the front-end Angular application."
+        ]
+      },
+      "projects": [
+        "Build and maintain front-end libraries used in the Azqore S2I platform",
+        "Make UI/UX improvements based on user stories and feedback",
+        "Improve build script efficiency to improve build time"
+      ],
+      "techStacks": [
+        "Angular 5", "Angular 6", "Typescript 1+",
+        "Java", "Java Spring Boot",
+        "SDLC", "SecureSDLC", "Jenkins", "CI/CD",
+        "RESTful API", "MicroServices"
+      ]
+    },
+    {
+      "roleEntries": [
+        {
+          "role": "Senior Software Engineer — Front-End",
+          "date": {
+            "from": "01 Mar 2016",
+            "to": "31 Aug 2018"
+          }
+        }
+      ],
+      "companyEntry": {
+        "name": "Octus Pte Ltd",
+        "address": "65 Chulia Street, Singapore 198902",
+        "supervisor": "Jak Allday",
+        "role": "manager"
+      },
+      "descriptions": {
+        "lead": "Led a team of Front-End Engineers and constantly communicating with the product owners to gather requirements and divide the task. Responsible for ensuring the UI/UX/CX of the software is always in tip-top condition.",
+        "details": [
+          "Responsible for leading and coordinating the front-end team with the backend team conducting daily standups to align the team with what is completed yesterday, what is being done today, and who or what is blocking them.",
+          "Using JIRA as a project management tool, maintain a Release Control process to keep track of the features and hotfix branches that are in progress or awaiting release.",
+          "Collect, evaluate, and document requirements from product owners and users in order to develop a new feature for the software.",
+          "Research, design and build rapid prototypes using HTML Bootstrap for clients and product owners before going into full feature development.",
+          "Organize, display, sort big data using an MVC framework (BackboneJS, MarionetteJS) along with Javascript libraries (KendoUI).",
+          "Develop data, process, and network with email clients using Nylas as an email broker capturing and viewing user's email messages to be organized into the software.",
+          "Assess, upgrade, and maintain the NPM Gulp build process for automated build and minification of the assets.",
+          "Constantly upgrade and develop maintenance procedures for our automated NPM Gulp build process to make it efficient using many various tools.",
+          "Integrate and plan the RESTful APIs provided by the backend team with a JSON object response."
+        ]
+      },
+      "projects": [
+        "Build, design and develop new feature for recruitment CRM platform",
+        "Improve UI/UX/CX of product based on customer feedback"
+      ],
+      "techStacks": [
+        "Backbone JS", "Marionette JS", "HTML5", "CSS3", "Docker", "Java", "Spring Boot"
+      ]
+    },
+    {
+      "roleEntries": [
+        {
+          "role": "Senior Developer (Freelance)",
+          "date": {
+            "from": "12 Oct 2015",
+            "to": "12 Jan 2016"
+          }
+        }
+      ],
+      "companyEntry": {
+        "name": "Publicis / Nurun",
+        "address": "16 Collyer Quay #03-00, Singapore 049318",
+        "supervisor": "Eddy Hidayat",
+        "role": "manager"
+      },
+      "descriptions": {
+        "lead": "Freelance at Publicis / Nurun playing more of a support role for their current team in projects such as Scoot and Nikon.",
+        "details": [
+          "Manage, collect, and evaluate user requirements and develop specifications and wireframe. Research and evaluate technical information for design, develop, and test using HMVC Kohana framework to structure and build projects.",
+          "Evaluate the performance and reliability of the framework and work together with the DevOps to develop data models for purpose of development.",
+          "Plan, design and coordinate the development and integration with various APIs provided by the backend team.",
+          "Researched and source Data Visualisation libraries for a project with Nikon. Plan, design and integrate with D3JS in order to visualize big data on the browser."
+        ]
+      },
+      "projects": [
+        "Data visualization using D3JS for Nikon",
+        "Rebranding of Scoot corporate website"
+      ],
+      "techStacks": [
+        "D3JS", "Custom Vis", "Raphaël JS"
+      ]
+    },
+    {
+      "roleEntries": [
+        {
+          "role": "Lead Developer (Front-End) and Trainer",
+          "date": {
+            "from": "03 Nov 2014",
+            "to": "06 Oct 2015"
+          }
+        }
+      ],
+      "companyEntry": {
+        "name": "Decision Science",
+        "address": "38 Craig Rd, Singapore 089676",
+        "supervisor": "Collin Ang",
+        "role": "manager"
+      },
+      "descriptions": {
+        "details": [
+          "Take ownership of Front-End development projects for various clients.",
+          "Collect and document users' requirements and develop logical and physical specifications. Research and evaluate technical requirements to design, develop, and test rich media development projects.",
+          "Develop data, process, and data models to optimize project development and evaluate the performance and reliability of data models.",
+          "Plan, design and coordinate the development, installation, integration of digital media projects. Assess, test, troubleshoot, document, upgrade, and develop maintenance procedures for digital media projects and integrated media campaigns.",
+          "Lead and coordinate the front-end team with the backend team in the development of digital media projects and integrated media campaigns.",
+          "Plan, formalize, and execute training plans for a front-end team member to educate, mentor, and upgrade the skills of team members.",
+          "Responsible for planning and developing template files and assets for Adobe CQ5 projects before it goes into production."
+        ]
+      },
+      "projects": [
+        "Rebuilding of Starhub corporate, business and consumer website",
+        "Rebranding of Great Easter Life corporate, business and consumer facing website",
+        "Integration with Adobe CQ5 platform"
+      ]
+    },
+    {
+      "roleEntries": [
+        {
+          "role": "Everest Team Captain",
+          "date": {
+            "from": "01 Jan 2013",
+            "to": "11 Dec 2015"
+          }
+        },
+        {
+          "role": "Media & Sponsorship Team",
+          "date": {
+            "from": "01 Dec 2010",
+            "to": "01 Jan 2013"
+          }
+        }
+      ],
+      "companyEntry": {
+        "name": "Team Everest Singapore 2015",
+        "supervisor": "Tan Chin Hwee",
+        "role": "mentor"
+      },
+      "descriptions": {
+        "lead": "Our goal was to reach the summit of Mt Everest in summer (May) 2015 to commemorate Singapore's 50th National Day.",
+        "details": [
+          "Responsible for fundraising and outreach to potential sponsors and patrons. Organize presentations, talks, and events to raise awareness for the team publicity.",
+          "Plan and carry out training for the Everest expedition. Work together with the Training IC to manage and plan the training schedule for the team.",
+          "Plan, execute and organize the 3-month long expedition for the entire Mount Everest expedition team. Taking into consideration crafting, organizing, and releasing media releases to the press, organizing media conference with various media agencies for the team to make official statements and interact with the media.",
+          "Plan, prepare, and document the evacuation process for any emergencies.",
+          "Coordinate and work together with the Ministry of Foreign Affairs for the team's evacuation during the Kathmandu 2015 earthquake that took 7,000 lives in Kathmandu and a further 24 climbers at Mount Everest.",
+          "Communicate, coordinate, and organize the team's evacuation via Singapore Armed Forces C-130 military planes.",
+          "Plan and craft press releases to the media to keep them updated about the team's progress during their expeditions and evacuation."
+        ]
+      },
+      "projects": [
+        "Raised roughly US$200,000 in funds for the Everest expedition",
+        "Suffered a stroke at 20,000ft (6,400m). Continued to summit Cho Oyu at 26,900ft (8,201m)"
+      ]
+    },
+    {
+      "roleEntries": [
+        {
+          "role": "Digital Developer",
+          "date": {
+            "from": "01 Jul 2011",
+            "to": "02 Sep 2013"
+          }
+        },
+        {
+          "role": "Interactive Designer/ Developer (Freelance)",
+          "date": {
+            "from": "19 Oct 2010",
+            "to": "17 Dec 2010"
+          }
+        },
+        {
+          "role": "Intern",
+          "date": {
+            "from": "24 May 2010",
+            "to": "20 Aug 2010"
+          }
+        }
+      ],
+      "companyEntry": {
+        "name": "Tequila\\ Singapore",
+        "address": "991C Alexandra Rd, Singapore 119971",
+        "supervisor": "Tuomas Peltoniemi ",
+        "role": "manager"
+      },
+      "descriptions": {
+        "lead": "I started as an intern and worked my way up to be an Interactive Media Developer.",
+        "details": [
+          "Take responsibility for interactive media projects for various clients under the Digital Arts Network.",
+          "Program animation and interactive media elements as per specification for internet-based applications.",
+          "Write documentation of requirements from project managers and clients and assist in developing physical specifiications.",
+          "Design, develop, and coordinate the development and integration of various interactive digital media projects internally and externally with other vendors.",
+          "Research and evaluate a variety of interactive media projects to incorporate into the use of development in-house.",
+          "Take part in troubleshooting and documenting maintenance procedures for digital media projects and rich media campaigns."
+        ]
+      },
+      "projects": [
+        "SIAJourneys campaign site for Singapore Airlines",
+        "Singapore Airline website redesign",
+        "Scoot website rebranding and redesign",
+        "Singapore Management University website rebranding and redesign"
+      ]
+    },
+    {
+      "roleEntries": [
+        {
+          "role": "Interactive Media Developer",
+          "date": {
+            "from": "12 Sep 2008",
+            "to": "31 Jul 2009"
+          }
+        }
+      ],
+      "companyEntry": {
+        "name": "Avantworks",
+        "address": "41C Horne Road Singapore 209066",
+        "supervisor": "Cheng Chunn",
+        "role": "Director Executive Producer"
+      },
+      "descriptions": {
+        "details": [
+          "Write, modify, integrate, and test software code for various interactive media campaigns. Maintain existing interactive projects by making modifications as required.",
+          "Identify and communicate technical problems, processes, and solutions for various clients and interactive media projects.",
+          "Prepare reports, manuals, and other documentation on the status, operation, and maintenance of interactive media projects.",
+          "Assist in the collection and documentation of requirements from project managers and clients. Assist in the development of logical and physical specifications as per the requirements of interactive media projects.",
+          "Lead and coordinate between the front-end team and the backend team to work towards the requirements.",
+          "Research and evaluate various software products for the purpose of interactive media campaigns."
+        ]
+      },
+      "projects": [
+        "Various Flash Actionscript 2/3 campaign website"
+      ],
+      "techStacks": [
+        "Adobe Flash", "Adobe Flex", "ActionScript 2", "ActionScript 3"
+      ]
+    }
+  ]
+}
