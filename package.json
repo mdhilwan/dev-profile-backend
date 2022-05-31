@@ -8,7 +8,8 @@
   },
   "scripts": {
     "start": "node .",
-    "build": "babel --delete-dir-on-start --out-dir dist --copy-files --ignore \"**/__tests__/**,**/__mocks__/**\" --no-copy-ignored src"
+    "build": "babel --delete-dir-on-start --out-dir dist --copy-files --ignore \"**/__tests__/**,**/__mocks__/**\" --no-copy-ignored src",
+    "gcp": "npm run build && gcloud app deploy --quiet"
   },
   "repository": {
     "type": "git",
