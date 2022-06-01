@@ -1,11 +1,12 @@
 import express from 'express'
 import fs from 'fs';
 import path from 'path';
+import cors from 'cors';
 
 function userRoutes() {
   const router = express.Router()
-  router.get('/get/basic', getBasic)
-  router.get('/get/employment', getEmployment)
+  router.get('/get/basic', cors(), getBasic)
+  router.get('/get/employment', cors(), getEmployment)
   return router
 }
 
