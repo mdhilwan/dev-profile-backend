@@ -36,12 +36,7 @@ async function getBasic(req, res) {
 
 async function getEmployment(req, res) {
   const employments = await getEmploymentProfile(db, req.params.userId);
-  // res.send(employments);
-  returnData(res, path.normalize(path.join(__dirname, '../data/employment-history.json')));
-}
-
-function returnData(res, filepath) {
-  readJsonFileSync(filepath).then(val => res.send(val));
+  res.send(employments);
 }
 
 async function getEmploymentProfile(db, userId) {
