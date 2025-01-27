@@ -42,7 +42,7 @@ async function getEmployment(req, res) {
 async function getEmploymentProfile(db, userId) {
   const employments = [];
   const user = await getUser(db, userId);
-  for (const eUid of user.employmentUids) {
+  for (const eUid of user?.employmentUids) {
     const employmentData = await get(doc(db, 'employments', eUid));
     employments.push(employmentData);
   }
