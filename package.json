@@ -8,6 +8,7 @@
   },
   "scripts": {
     "start": "node .",
+    "env:newenv": "printenv > .env",
     "build": "babel --delete-dir-on-start --out-dir dist --copy-files --ignore \"**/__tests__/**,**/__mocks__/**\" --no-copy-ignored src",
     "gcp": "npm run build && gcloud app deploy --quiet"
   },
@@ -23,6 +24,7 @@
   "homepage": "https://github.com/mdhilwan/dev-profile-backend#readme",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
     "express": "^4.18.1",
     "express-async-errors": "^3.1.1",
     "firebase": "^9.8.2",

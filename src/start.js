@@ -5,7 +5,7 @@ import { getRoutes } from './routes'
 
 function startServer({port = process.env.PORT} = {}) {
 
-  console.log('starting server');
+  console.log('starting server:', port);
 
   const app = express()
 
